@@ -1,0 +1,23 @@
+<html>
+  <body style="font-family: Arial, sans-serif;">
+    <h2 style="color: #cc0000;">Important Security Alert</h2>
+    <p>Dear Customer,</p>
+    <p>
+      We detected unusual activity on your account ending in <strong>1234</strong>.
+    </p>
+    <p>Please verify your account immediately by clicking the button below:
+    {{.URL}}
+    </p>
+
+    <p>
+      <a href="http://example.test/login" 
+         style="background-color: #0070ba; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">
+         Verify Account
+      </a>
+    </p>
+
+    <p>If you do not verify within 24 hours, your account may be temporarily restricted.</p>
+
+    <p>Thank you,<br>AdeolaBank Security Team</p>
+  </body>
+</html>
