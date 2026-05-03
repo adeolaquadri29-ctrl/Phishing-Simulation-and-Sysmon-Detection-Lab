@@ -1,0 +1,11 @@
+Dear Customer,
+
+We detected unusual activity on your account ending in 1234.
+
+Please verify your account immediately using the link below:
+{{.URL}}
+
+Failure to act may result in temporary suspension.
+
+Thank you,
+AdeolaBank Security Team
